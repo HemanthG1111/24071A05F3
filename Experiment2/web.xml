@@ -1,0 +1,13 @@
+<web-app>
+
+  <servlet>
+    <servlet-name>AgeValidation</servlet-name>
+    <servlet-class>AgeValidation</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AgeValidation</servlet-name>
+    <url-pattern>/AgeValidation</url-pattern>
+  </servlet-mapping>
+
+</web-app>
